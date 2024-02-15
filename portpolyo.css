@@ -1,0 +1,90 @@
+body {
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+  background-image: url("BACKGROUND.JPG");
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+li{
+  color: rgb(255, 255, 255);
+}
+
+p {
+  color: rgb(253, 253, 253);
+  margin-bottom: 15px;
+}
+
+.post {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.profile-img {
+  max-width: 200px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.social-links {
+  margin-top: 20px;
+}
+
+.social-links a {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.home,
+.about,
+.projects,
+#contact {
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.intro-section {
+    text-align: center;
+    padding: 0px;
+    background-color: #00d9ff;
+  }
+  
+  .home-heading {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: rgb(0, 0, 0);
+  }
+  
+  .home-img {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .intro-section p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: rgb(0, 0, 0);
+  }
+  
+  
+  
